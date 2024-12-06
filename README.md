@@ -24,10 +24,10 @@ Database: MySQL
 Authentication: OAuth, JWT
 
 ## 🚀 Getting Started
-Clone the repository:
-git clone https://github.com/your-username/programming-course-platform.git
-cd programming-course-platform
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sivatejachary/Programming-Quiz-Website.git ```
+   
 ## Generate customizable certificates.
 Review user progress and performance.
 User Features
