@@ -1,0 +1,12 @@
+[18-Apr-2023 12:48:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\tom\ind.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\tom\ind.php on line 50
+[18-Apr-2023 12:48:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\tom\ind.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\tom\ind.php on line 50
+[18-Apr-2023 12:48:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function imagecreatefrompng() in C:\xampp\htdocs\tom\ind.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\tom\ind.php on line 50
